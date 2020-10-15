@@ -7,4 +7,7 @@ export default interface Game {
     users: User[];
     currentPlayer: Snowflake;
     topCard: Card;
+    player: number;
+    defuses: number;
+    bombs: number;
 };

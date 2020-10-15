@@ -35,7 +35,7 @@ export const Cards = {
     ],
     "cats": [
         {
-            "type": "cat",
+            "type": "cats",
             "name": "beard-cat",
             "description": null,
             "image": "./src/assets/Card_Assets/Cats/Beard.png",
@@ -43,7 +43,7 @@ export const Cards = {
             "inPlay": 0
         },
         {
-            "type": "cat",
+            "type": "cats",
             "name": "cattermelon",
             "description": null,
             "image": "./src/assets/Card_Assets/Cats/Cattermelon.png",
@@ -51,7 +51,7 @@ export const Cards = {
             "inPlay": 0
         },
         {
-            "type": "cat",
+            "type": "cats",
             "name": "hairy-potato-cat",
             "description": null,
             "image": "./src/assets/Card_Assets/Cats/HairyPotato.png",
@@ -59,7 +59,7 @@ export const Cards = {
             "inPlay": 0
         },
         {
-            "type": "cat",
+            "type": "cats",
             "name": "rainbow-ralphing-cat",
             "description": null,
             "image": "./src/assets/Card_Assets/Cats/RainbowRalphing.png",
@@ -67,7 +67,7 @@ export const Cards = {
             "inPlay": 0
         },
         {
-            "type": "cat",
+            "type": "cats",
             "name": "taco-cat",
             "description": null,
             "image": "./src/assets/Card_Assets/Cats/Taco.png",
